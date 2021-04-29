@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img alt="Podcast" src=".github/Capa.svg" height="100px" />
+   <img alt="Podcast" src=".github/Capa.svg" height="600px" />
 </h1>
 
 <h1 align="center">
