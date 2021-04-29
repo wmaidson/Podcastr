@@ -1,4 +1,6 @@
-![podcastWeb](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d4b95bcf-3140-45dc-bf41-75a632e1e0f6/Capa.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210428T233353Z&X-Amz-Expires=86400&X-Amz-Signature=c2108a1da26d5a5406b1176dfb2d7e75e0d0079eab15e0a044e209c64e0bbc9f&X-Amz-SignedHeaders=host)
+<h1 align="center">
+   <img alt="Podcast" src=".github/Capa.svg" height="100px" />
+</h1>
 
 <h1 align="center">
    <img alt="Podcastr" src=".github/logo.svg" height="100px" />
