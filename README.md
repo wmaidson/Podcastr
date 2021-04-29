@@ -1,9 +1,6 @@
 <h1 align="center">
-   <img alt="Podcast" src=".github/Capa.svg" height="600px" />
-</h1>
-
-<h1 align="center">
-   <img alt="Podcastr" src=".github/logo.svg" height="100px" />
+    <img alt="Podcast" src=".github/Capa.svg" height="600px" />
+    <img alt="Podcastr" src=".github/logo.svg" height="100px" />
     <br>Next Level Week <br/>
     <img alt="NLW" src=".github/nlw.png" height="100px" />
     <br>
