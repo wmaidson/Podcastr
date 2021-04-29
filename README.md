@@ -1,4 +1,5 @@
-![podcastrWeb](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d4b95bcf-3140-45dc-bf41-75a632e1e0f6/Capa.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210428T233353Z&X-Amz-Expires=86400&X-Amz-Signature=c2108a1da26d5a5406b1176dfb2d7e75e0d0079eab15e0a044e209c64e0bbc9f&X-Amz-SignedHeaders=host)
+![podcastWeb](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d4b95bcf-3140-45dc-bf41-75a632e1e0f6/Capa.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210428T233353Z&X-Amz-Expires=86400&X-Amz-Signature=c2108a1da26d5a5406b1176dfb2d7e75e0d0079eab15e0a044e209c64e0bbc9f&X-Amz-SignedHeaders=host)
+
 <h1 align="center">
    <img alt="Podcastr" src=".github/logo.svg" height="100px" />
     <br>Next Level Week <br/>
@@ -32,16 +33,16 @@ The podcast is a medium of entertainment that has grown a lot in recent times ma
 
 You can see my notes here [Notion](https://www.notion.so/Next-Level-Week-b9340ecd4b3d43c0ba50bf9741133a28)
 
-![podcastr](https://raw.githubusercontent.com/wmaidson/testegit/master/Podcastr.gif)
+![podcastr](https://raw.githubusercontent.com/wmaidson/Podcastr/master/.github/Podcastr.gif)
   
 This application made was during the **Next Level Week #5**, project made by [Rocketseat](https://rocketseat.com.br/).
 
-## ::newspaper: Figma
+## :newspaper: Figma
 
 
 **Figma**
 
-[![Figma](https://raw.githubusercontent.com/wmaidson/testegit/master/figma.gif)](https://www.figma.com/file/Ac8023WDzPi1snfkYCLw6j/Podcastr?node-id=160%3A2761)
+[![Figma](https://raw.githubusercontent.com/wmaidson/Podcastr/master/.github/figma.gif)](https://www.figma.com/file/Ac8023WDzPi1snfkYCLw6j/Podcastr?node-id=160%3A2761)
 
 ## :rocket: Technology
 
@@ -96,4 +97,4 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for
 
 ## :headphones: Application
 
-**You can test the application here:** [Podcastr](https://wpodicastr.herokuapp.com/)
+**You can test the application here:** [Podcastr](https://wpodicastr.herokuapp.com)
